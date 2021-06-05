@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright 2018-2021 - John snow wind
 
 using UnrealBuildTool;
 

@@ -8,8 +8,7 @@
 	"CreatedBy": "Jonh. H",
 	"CreatedByURL": "",
 	"DocsURL": "https://github.com/JohnSnowWind/AutoPSDUIDoc",
-	"MarketplaceURL": "com.epicgames.launcher:
-//ue/marketplace/product/d5362c4d44784473ad84d946d95659e3",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d5362c4d44784473ad84d946d95659e3",
 	"SupportURL": "",
 	"EngineVersion": "4.26.0",
 	"CanContainContent": true,

@@ -147,6 +147,6 @@ After the .psd file is imported into the editor, an UTexture2D Asset will be gen
 
 ## Contact
 
-Gamil: john.hj.private@gmail.com
+Gamil: huakangjian1995@gmail.com
 
 GOOD LUCK!

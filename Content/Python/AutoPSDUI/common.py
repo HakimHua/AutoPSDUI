@@ -12,7 +12,7 @@ def normal_dir(p_dir):
 
 module_dir = normal_dir(os.path.dirname(__file__))
 
-third_party_dir = normal_dir(os.path.join(module_dir, "../../../Source/ThirdParty/AutoPSDUI_Dependencies-1.0/"))
+third_party_dir = normal_dir(os.path.join(module_dir, "../../../Source/ThirdParty/"))
 
 if sys.platform == "win32":
     third_party_dir = os.path.join(third_party_dir, "Win64")
